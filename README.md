@@ -8,8 +8,6 @@
 
 ## Conteúdos Incluídos
 * HTML e CSS: Fundamentos de estrutura e estilização de páginas web.
-* JavaScript: Conceitos essenciais e boas práticas para manipulação do DOM, eventos, e mais.
-* Frameworks e Bibliotecas: Documentação e exemplos de uso de React, Vue.js, Angular, entre outros.
 * Projetos Práticos: Exercícios e projetos desenvolvidos para reforçar os conceitos e habilidades.
 
 ## Contribuições
